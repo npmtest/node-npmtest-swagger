@@ -1,0 +1,177 @@
+<svg height="2782" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2782" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 06:04:16 +0000   980765 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 06:04:16 +0000      722 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 06:04:16 +0000     3782 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 06:04:16 +0000     3364 bytes  bin/swagger-project.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 06:04:16 +0000     1797 bytes  bin/swagger.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 06:04:16 +0000     2441 bytes  config/index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 06:04:16 +0000      559 bytes  docs/README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 06:04:16 +0000     8450 bytes  docs/adding-paths.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 06:04:16 +0000     4163 bytes  docs/cli.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 06:04:16 +0000     5015 bytes  docs/configuration.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 06:04:16 +0000     4311 bytes  docs/controllers.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 06:04:16 +0000    89370 bytes  docs/images/overview.png</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 06:04:16 +0000    86914 bytes  docs/images/overview2.png</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 06:04:16 +0000     9569 bytes  docs/images/project-call.png</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 06:04:16 +0000    15065 bytes  docs/images/project-controller.png</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 06:04:16 +0000     7092 bytes  docs/images/project-create.png</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 06:04:16 +0000   118728 bytes  docs/images/project-editor.png</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 06:04:16 +0000     4009 bytes  docs/images/project-hello.png</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 06:04:16 +0000     7323 bytes  docs/images/project-server.png</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 06:04:16 +0000     4392 bytes  docs/images/project-start-editor.png</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 06:04:16 +0000     4091 bytes  docs/images/project-start.png</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 06:04:16 +0000   150147 bytes  docs/images/swagger-editor.png</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 06:04:16 +0000     2009 bytes  docs/images/swagger-icon.png</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 06:04:16 +0000     4974 bytes  docs/images/swagger-install.png</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 06:04:16 +0000     3111 bytes  docs/install.md</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 06:04:16 +0000     3124 bytes  docs/introduction.md</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 06:04:16 +0000     9570 bytes  docs/mock-mode.md</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 06:04:16 +0000     2170 bytes  docs/modules.md</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 06:04:16 +0000     2920 bytes  docs/quick-start.md</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 06:04:16 +0000     1559 bytes  docs/release-notes.md</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 06:04:16 +0000      405 bytes  docs/report-issues.md</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 06:04:16 +0000     2241 bytes  docs/swagger-about.md</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 06:04:16 +0000     3996 bytes  docs/swagger-file.md</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 06:04:16 +0000      478 bytes  docs/toc.md</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 06:04:16 +0000        0 bytes  index.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 06:04:16 +0000     2670 bytes  lib/commands/commands.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 06:04:16 +0000    18302 bytes  lib/commands/project/project.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 06:04:16 +0000     3101 bytes  lib/commands/project/swagger_editor.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 06:04:16 +0000     2260 bytes  lib/util/browser.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 06:04:16 +0000     5493 bytes  lib/util/cli.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 06:04:16 +0000     1272 bytes  lib/util/feedback.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-20 06:04:16 +0000     1405 bytes  lib/util/net.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-20 06:04:16 +0000     2148 bytes  lib/util/spec.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-20 06:04:16 +0000     3322 bytes  package.json</tspan>
+<tspan x="10" y="730"> 44.  2017-04-20 06:04:16 +0000       31 bytes  project-skeletons/connect/README.md</tspan>
+<tspan x="10" y="746"> 45.  2017-04-20 06:04:16 +0000       42 bytes  project-skeletons/connect/api/controllers/README\</tspan>
+<tspan x="10" y="762">.md</tspan>
+<tspan x="10" y="778"> 46.  2017-04-20 06:04:16 +0000     1681 bytes  project-skeletons/connect/api/controllers/hello_\</tspan>
+<tspan x="10" y="794">world.js</tspan>
+<tspan x="10" y="810"> 47.  2017-04-20 06:04:16 +0000       38 bytes  project-skeletons/connect/api/helpers/README.md</tspan>
+<tspan x="10" y="826"> 48.  2017-04-20 06:04:16 +0000       51 bytes  project-skeletons/connect/api/mocks/README.md</tspan>
+<tspan x="10" y="842"> 49.  2017-04-20 06:04:16 +0000     1472 bytes  project-skeletons/connect/api/swagger/swagger.ya\</tspan>
+<tspan x="10" y="858">ml</tspan>
+<tspan x="10" y="874"> 50.  2017-04-20 06:04:16 +0000      546 bytes  project-skeletons/connect/app.js</tspan>
+<tspan x="10" y="890"> 51.  2017-04-20 06:04:16 +0000       45 bytes  project-skeletons/connect/config/README.md</tspan>
+<tspan x="10" y="906"> 52.  2017-04-20 06:04:16 +0000     1051 bytes  project-skeletons/connect/config/default.yaml</tspan>
+<tspan x="10" y="922"> 53.  2017-04-20 06:04:16 +0000      428 bytes  project-skeletons/connect/package.json</tspan>
+<tspan x="10" y="938"> 54.  2017-04-20 06:04:16 +0000       47 bytes  project-skeletons/connect/test/api/controllers/R\</tspan>
+<tspan x="10" y="954">EADME.md</tspan>
+<tspan x="10" y="970"> 55.  2017-04-20 06:04:16 +0000     1060 bytes  project-skeletons/connect/test/api/controllers/h\</tspan>
+<tspan x="10" y="986">ello_world.js</tspan>
+<tspan x="10" y="1002"> 56.  2017-04-20 06:04:16 +0000       43 bytes  project-skeletons/connect/test/api/helpers/READM\</tspan>
+<tspan x="10" y="1018">E.md</tspan>
+<tspan x="10" y="1034"> 57.  2017-04-20 06:04:16 +0000      549 bytes  project-skeletons/express/app.js</tspan>
+<tspan x="10" y="1050"> 58.  2017-04-20 06:04:16 +0000      432 bytes  project-skeletons/express/package.json</tspan>
+<tspan x="10" y="1066"> 59.  2017-04-20 06:04:16 +0000      749 bytes  project-skeletons/hapi/app.js</tspan>
+<tspan x="10" y="1082"> 60.  2017-04-20 06:04:16 +0000      423 bytes  project-skeletons/hapi/package.json</tspan>
+<tspan x="10" y="1098"> 61.  2017-04-20 06:04:16 +0000      562 bytes  project-skeletons/restify/app.js</tspan>
+<tspan x="10" y="1114"> 62.  2017-04-20 06:04:16 +0000      431 bytes  project-skeletons/restify/package.json</tspan>
+<tspan x="10" y="1130"> 63.  2017-04-20 06:04:16 +0000     2134 bytes  project-skeletons/sails/Gruntfile.js</tspan>
+<tspan x="10" y="1146"> 64.  2017-04-20 06:04:16 +0000       96 bytes  project-skeletons/sails/README.md</tspan>
+<tspan x="10" y="1162"> 65.  2017-04-20 06:04:16 +0000     1681 bytes  project-skeletons/sails/api/controllers/hello_wo\</tspan>
+<tspan x="10" y="1178">rld.js</tspan>
+<tspan x="10" y="1194"> 66.  2017-04-20 06:04:16 +0000      685 bytes  project-skeletons/sails/api/policies/sessionAuth\</tspan>
+<tspan x="10" y="1210">.js</tspan>
+<tspan x="10" y="1226"> 67.  2017-04-20 06:04:16 +0000     1779 bytes  project-skeletons/sails/api/responses/badRequest\</tspan>
+<tspan x="10" y="1242">.js</tspan>
+<tspan x="10" y="1258"> 68.  2017-04-20 06:04:16 +0000     2338 bytes  project-skeletons/sails/api/responses/forbidden.\</tspan>
+<tspan x="10" y="1274">js</tspan>
+<tspan x="10" y="1290"> 69.  2017-04-20 06:04:16 +0000     2499 bytes  project-skeletons/sails/api/responses/notFound.j\</tspan>
+<tspan x="10" y="1306">s</tspan>
+<tspan x="10" y="1322"> 70.  2017-04-20 06:04:16 +0000     1289 bytes  project-skeletons/sails/api/responses/ok.js</tspan>
+<tspan x="10" y="1338"> 71.  2017-04-20 06:04:16 +0000     2445 bytes  project-skeletons/sails/api/responses/serverErro\</tspan>
+<tspan x="10" y="1354">r.js</tspan>
+<tspan x="10" y="1370"> 72.  2017-04-20 06:04:16 +0000     1472 bytes  project-skeletons/sails/api/swagger/swagger.yaml</tspan>
+<tspan x="10" y="1386"> 73.  2017-04-20 06:04:16 +0000     1802 bytes  project-skeletons/sails/app.js</tspan>
+<tspan x="10" y="1402"> 74.  2017-04-20 06:04:16 +0000      920 bytes  project-skeletons/sails/assets/favicon.ico</tspan>
+<tspan x="10" y="1418"> 75.  2017-04-20 06:04:16 +0000   120238 bytes  project-skeletons/sails/assets/js/dependencies/s\</tspan>
+<tspan x="10" y="1434">ails.io.js</tspan>
+<tspan x="10" y="1450"> 76.  2017-04-20 06:04:16 +0000      276 bytes  project-skeletons/sails/assets/robots.txt</tspan>
+<tspan x="10" y="1466"> 77.  2017-04-20 06:04:16 +0000      874 bytes  project-skeletons/sails/assets/styles/importer.l\</tspan>
+<tspan x="10" y="1482">ess</tspan>
+<tspan x="10" y="1498"> 78.  2017-04-20 06:04:16 +0000     9197 bytes  project-skeletons/sails/config/blueprints.js</tspan>
+<tspan x="10" y="1514"> 79.  2017-04-20 06:04:16 +0000      627 bytes  project-skeletons/sails/config/bootstrap.js</tspan>
+<tspan x="10" y="1530"> 80.  2017-04-20 06:04:16 +0000     4706 bytes  project-skeletons/sails/config/connections.js</tspan>
+<tspan x="10" y="1546"> 81.  2017-04-20 06:04:16 +0000     3614 bytes  project-skeletons/sails/config/cors.js</tspan>
+<tspan x="10" y="1562"> 82.  2017-04-20 06:04:16 +0000     2989 bytes  project-skeletons/sails/config/csrf.js</tspan>
+<tspan x="10" y="1578"> 83.  2017-04-20 06:04:16 +0000     1051 bytes  project-skeletons/sails/config/default.yaml</tspan>
+<tspan x="10" y="1594"> 84.  2017-04-20 06:04:16 +0000      845 bytes  project-skeletons/sails/config/env/development.j\</tspan>
+<tspan x="10" y="1610">s</tspan>
+<tspan x="10" y="1626"> 85.  2017-04-20 06:04:16 +0000     1371 bytes  project-skeletons/sails/config/env/production.js</tspan>
+<tspan x="10" y="1642"> 86.  2017-04-20 06:04:16 +0000     3302 bytes  project-skeletons/sails/config/globals.js</tspan>
+<tspan x="10" y="1658"> 87.  2017-04-20 06:04:16 +0000     3883 bytes  project-skeletons/sails/config/http.js</tspan>
+<tspan x="10" y="1674"> 88.  2017-04-20 06:04:16 +0000     2644 bytes  project-skeletons/sails/config/i18n.js</tspan>
+<tspan x="10" y="1690"> 89.  2017-04-20 06:04:16 +0000     4772 bytes  project-skeletons/sails/config/local.js</tspan>
+<tspan x="10" y="1706"> 90.  2017-04-20 06:04:16 +0000     1181 bytes  project-skeletons/sails/config/locales/_README.m\</tspan>
+<tspan x="10" y="1722">d</tspan>
+<tspan x="10" y="1738"> 91.  2017-04-20 06:04:16 +0000       70 bytes  project-skeletons/sails/config/locales/de.json</tspan>
+<tspan x="10" y="1754"> 92.  2017-04-20 06:04:16 +0000       67 bytes  project-skeletons/sails/config/locales/en.json</tspan>
+<tspan x="10" y="1770"> 93.  2017-04-20 06:04:16 +0000       90 bytes  project-skeletons/sails/config/locales/es.json</tspan>
+<tspan x="10" y="1786"> 94.  2017-04-20 06:04:16 +0000       84 bytes  project-skeletons/sails/config/locales/fr.json</tspan>
+<tspan x="10" y="1802"> 95.  2017-04-20 06:04:16 +0000     1302 bytes  project-skeletons/sails/config/log.js</tspan>
+<tspan x="10" y="1818"> 96.  2017-04-20 06:04:16 +0000     1451 bytes  project-skeletons/sails/config/models.js</tspan>
+<tspan x="10" y="1834"> 97.  2017-04-20 06:04:16 +0000     2153 bytes  project-skeletons/sails/config/policies.js</tspan>
+<tspan x="10" y="1850"> 98.  2017-04-20 06:04:16 +0000     2397 bytes  project-skeletons/sails/config/routes.js</tspan>
+<tspan x="10" y="1866"> 99.  2017-04-20 06:04:16 +0000     4323 bytes  project-skeletons/sails/config/session.js</tspan>
+<tspan x="10" y="1882">100.  2017-04-20 06:04:16 +0000     7425 bytes  project-skeletons/sails/config/sockets.js</tspan>
+<tspan x="10" y="1898">101.  2017-04-20 06:04:16 +0000     5876 bytes  project-skeletons/sails/config/views.js</tspan>
+<tspan x="10" y="1914">102.  2017-04-20 06:04:16 +0000      984 bytes  project-skeletons/sails/package.json</tspan>
+<tspan x="10" y="1930">103.  2017-04-20 06:04:16 +0000     3129 bytes  project-skeletons/sails/tasks/README.md</tspan>
+<tspan x="10" y="1946">104.  2017-04-20 06:04:16 +0000      453 bytes  project-skeletons/sails/tasks/config/clean.js</tspan>
+<tspan x="10" y="1962">105.  2017-04-20 06:04:16 +0000      781 bytes  project-skeletons/sails/tasks/config/coffee.js</tspan>
+<tspan x="10" y="1978">106.  2017-04-20 06:04:16 +0000      701 bytes  project-skeletons/sails/tasks/config/concat.js</tspan>
+<tspan x="10" y="1994">107.  2017-04-20 06:04:16 +0000      812 bytes  project-skeletons/sails/tasks/config/copy.js</tspan>
+<tspan x="10" y="2010">108.  2017-04-20 06:04:16 +0000      480 bytes  project-skeletons/sails/tasks/config/cssmin.js</tspan>
+<tspan x="10" y="2026">109.  2017-04-20 06:04:16 +0000     1308 bytes  project-skeletons/sails/tasks/config/jst.js</tspan>
+<tspan x="10" y="2042">110.  2017-04-20 06:04:16 +0000      661 bytes  project-skeletons/sails/tasks/config/less.js</tspan>
+<tspan x="10" y="2058">111.  2017-04-20 06:04:16 +0000     6566 bytes  project-skeletons/sails/tasks/config/sails-linke\</tspan>
+<tspan x="10" y="2074">r.js</tspan>
+<tspan x="10" y="2090">112.  2017-04-20 06:04:16 +0000      626 bytes  project-skeletons/sails/tasks/config/sync.js</tspan>
+<tspan x="10" y="2106">113.  2017-04-20 06:04:16 +0000      464 bytes  project-skeletons/sails/tasks/config/uglify.js</tspan>
+<tspan x="10" y="2122">114.  2017-04-20 06:04:16 +0000      765 bytes  project-skeletons/sails/tasks/config/watch.js</tspan>
+<tspan x="10" y="2138">115.  2017-04-20 06:04:16 +0000     2037 bytes  project-skeletons/sails/tasks/pipeline.js</tspan>
+<tspan x="10" y="2154">116.  2017-04-20 06:04:16 +0000      147 bytes  project-skeletons/sails/tasks/register/build.js</tspan>
+<tspan x="10" y="2170">117.  2017-04-20 06:04:16 +0000      191 bytes  project-skeletons/sails/tasks/register/buildProd\</tspan>
+<tspan x="10" y="2186">.js</tspan>
+<tspan x="10" y="2202">118.  2017-04-20 06:04:16 +0000      154 bytes  project-skeletons/sails/tasks/register/compileAs\</tspan>
+<tspan x="10" y="2218">sets.js</tspan>
+<tspan x="10" y="2234">119.  2017-04-20 06:04:16 +0000      114 bytes  project-skeletons/sails/tasks/register/default.j\</tspan>
+<tspan x="10" y="2250">s</tspan>
+<tspan x="10" y="2266">120.  2017-04-20 06:04:16 +0000      245 bytes  project-skeletons/sails/tasks/register/linkAsset\</tspan>
+<tspan x="10" y="2282">s.js</tspan>
+<tspan x="10" y="2298">121.  2017-04-20 06:04:16 +0000      282 bytes  project-skeletons/sails/tasks/register/linkAsset\</tspan>
+<tspan x="10" y="2314">sBuild.js</tspan>
+<tspan x="10" y="2330">122.  2017-04-20 06:04:16 +0000      290 bytes  project-skeletons/sails/tasks/register/linkAsset\</tspan>
+<tspan x="10" y="2346">sBuildProd.js</tspan>
+<tspan x="10" y="2362">123.  2017-04-20 06:04:16 +0000      298 bytes  project-skeletons/sails/tasks/register/prod.js</tspan>
+<tspan x="10" y="2378">124.  2017-04-20 06:04:16 +0000      136 bytes  project-skeletons/sails/tasks/register/syncAsset\</tspan>
+<tspan x="10" y="2394">s.js</tspan>
+<tspan x="10" y="2410">125.  2017-04-20 06:04:16 +0000       47 bytes  project-skeletons/sails/test/api/controllers/REA\</tspan>
+<tspan x="10" y="2426">DME.md</tspan>
+<tspan x="10" y="2442">126.  2017-04-20 06:04:16 +0000     1022 bytes  project-skeletons/sails/test/api/controllers/hel\</tspan>
+<tspan x="10" y="2458">lo_world.js</tspan>
+<tspan x="10" y="2474">127.  2017-04-20 06:04:16 +0000       43 bytes  project-skeletons/sails/test/api/helpers/README.\</tspan>
+<tspan x="10" y="2490">md</tspan>
+<tspan x="10" y="2506">128.  2017-04-20 06:04:16 +0000      391 bytes  project-skeletons/sails/test/bootstrap.test.js</tspan>
+<tspan x="10" y="2522">129.  2017-04-20 06:04:16 +0000     3660 bytes  project-skeletons/sails/views/403.ejs</tspan>
+<tspan x="10" y="2538">130.  2017-04-20 06:04:16 +0000     3769 bytes  project-skeletons/sails/views/404.ejs</tspan>
+<tspan x="10" y="2554">131.  2017-04-20 06:04:16 +0000    67457 bytes  project-skeletons/sails/views/500.ejs</tspan>
+<tspan x="10" y="2570">132.  2017-04-20 06:04:16 +0000     7524 bytes  project-skeletons/sails/views/homepage.ejs</tspan>
+<tspan x="10" y="2586">133.  2017-04-20 06:04:16 +0000     3290 bytes  project-skeletons/sails/views/layout.ejs</tspan>
+<tspan x="10" y="2602">134.  2017-04-20 06:04:16 +0000     1833 bytes  test/commands/commands.js</tspan>
+<tspan x="10" y="2618">135.  2017-04-20 06:04:16 +0000     1509 bytes  test/commands/project/badswagger.yaml</tspan>
+<tspan x="10" y="2634">136.  2017-04-20 06:04:16 +0000    19306 bytes  test/commands/project/project.js</tspan>
+<tspan x="10" y="2650">137.  2017-04-20 06:04:16 +0000     4149 bytes  test/commands/project/swagger_editor.js</tspan>
+<tspan x="10" y="2666">138.  2017-04-20 06:04:16 +0000     1822 bytes  test/config.js</tspan>
+<tspan x="10" y="2682">139.  2017-04-20 06:04:16 +0000     2384 bytes  test/helpers.js</tspan>
+<tspan x="10" y="2698">140.  2017-04-20 06:04:16 +0000     4032 bytes  test/project-skeletons/common.js</tspan>
+<tspan x="10" y="2714">141.  2017-04-20 06:04:16 +0000     1014 bytes  test/project-skeletons/helpers.js</tspan>
+<tspan x="10" y="2730">142.  2017-04-20 06:04:16 +0000     3263 bytes  test/util/browser.js</tspan>
+<tspan x="10" y="2746">143.  2017-04-20 06:04:16 +0000     7180 bytes  test/util/cli.js</tspan>
+<tspan x="10" y="2762">144.  2017-04-20 06:04:16 +0000     1983 bytes  test/util/net.js</tspan>
+</text>
+</svg>
